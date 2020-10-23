@@ -51,7 +51,7 @@ public class TestDemo {
         calculator.firstName = "lala";
         calculator.lastName = "s3eed";
         Calculator calculator2 = new Calculator();
-        calculator2.firstName = "llasai";
+        calculator2.firstName = "asai";
         calculator2.lastName = "atrash";
         List<Calculator> cals = new ArrayList();
         cals.add(calculator);
