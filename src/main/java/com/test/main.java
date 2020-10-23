@@ -10,6 +10,6 @@ public class main {
     private static final Logger logger = Logger.getLogger(main.class.getName());
 
     public static void main(String[] args) {
-        logger.log(Level.INFO, "first run");
+        logger.log(Level.INFO, "3zat  2aza3ezo");
     }
 }
