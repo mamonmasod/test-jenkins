@@ -11,6 +11,6 @@
     <title>Fofo</title>
 </head>
 <body>
-welcome to First jenkins Full example
+welcome to First jenkins Full example, :)
 </body>
 </html>
